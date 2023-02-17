@@ -1,1 +1,5 @@
 在我的电脑》属性》高级系统设置》环境变量中》系统变量》path中设置python路径， 一定要在MGLtools前面
+工作文件夹必须在全英文目录下，文件夹中含有以下三个文件
+adt.bat    来自autodocktools
+autodock4.exe    来自autodock
+autogrid4.exe   来自autodock
